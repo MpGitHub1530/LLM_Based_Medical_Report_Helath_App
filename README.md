@@ -3,15 +3,6 @@
 AI Agent to analyze health reports and provide detailed health insights.
 
 <p align="center">
-  <a href="https://github.com/MpGitHub1530/hia/issues"><img src="https://img.shields.io/github/issues/MpGitHub1530/hia"></a> 
-  <a href="https://github.com/MpGitHub1530/hia/stargazers"><img src="https://img.shields.io/github/stars/MpGitHub1530/hia"></a>
-  <a href="https://github.com/MpGitHub1530/hia/network/members"><img src="https://img.shields.io/github/forks/MpGitHub1530/hia"></a>
-  <a href="https://github.com/MpGitHub1530/hia/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg">
-  </a>
-</p>
-
-<p align="center">
   <a href="#-features">Features</a> |
   <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> |
   <a href="#-installation">Installation</a> |
