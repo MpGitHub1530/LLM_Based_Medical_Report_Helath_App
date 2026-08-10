@@ -1,6 +1,6 @@
-# 🩺 HIA (Health Insights Agent)
 
-AI Agent to analyze health reports and provide detailed health insights.
+
+# AI Agent to analyze health reports and provide detailed health insights.
 
 <p align="center">
   <a href="#-features">Features</a> |
